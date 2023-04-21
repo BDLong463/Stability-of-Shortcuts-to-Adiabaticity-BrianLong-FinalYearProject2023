@@ -4,4 +4,4 @@ Notes on Operation: If the programs do not work right away once download, exit t
 \
 FidelityCalculatorV2.1-STA-FINAL: This notebook is responsible for the definition of STA parameters and the calculation of fidelity results for a 1-D harmonic oscillator system with an included systematic error.\
 \
-FidelityCalculatorV3.1-HigherOrder: This notebook carries out the same calculations as the previous notebook, with the exception the parameter b(t) defined in V2.1 is now of higher order, addtionally, the fidelity results are now dependent on a newly introduced free paramter beta. 
+FidelityCalculatorV3.1-HigherOrder: This notebook carries out the same calculations as the previous notebook, with the exception the parameter b(t) defined in V2.1 is now of higher order, addtionally, the fidelity results are now dependent on a newly introduced free parameter beta. 
